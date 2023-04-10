@@ -1,3 +1,4 @@
+
 #include "header.h"
 
 void readNormalFile(Process p[4],int &n)

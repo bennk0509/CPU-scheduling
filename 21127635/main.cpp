@@ -1,5 +1,5 @@
 #include "header.h"
-
+#include "header.cpp"
 
 int main()
 {

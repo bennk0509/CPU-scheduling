@@ -1,4 +1,6 @@
-#pragma once
+#ifndef INT_H
+#define INT_H
+
 #include <iostream>
 #include <fstream>
 #include <vector>
@@ -33,3 +35,5 @@ void FCFS_Scheduling();
 void SJF_Scheduling();
 void SRTN_Scheduling();
 void RR_Scheduling();
+
+#endif
